@@ -20,3 +20,35 @@ Dataset: 5
 6)     Compute differences between each feature vector and for collections of feature vectors for overlapping nuclei
 
 7)     Use color/shading to depict variation between different spatial regions of 1) nuclear  spatial overlap  2) various measures of  feature vector difference 
+
+###Software:
+
+####The Architecture Diagram: 
+This is available in the Final presentation slides
+
+####Technologies and Tools Used:
+-Java, Python, Matlab, Bash Scripts
+-Web Application built using Netbeans IDE
+-Front End : HTML, Twitter Bootstrap
+
+####System Specification:
+This is the system where the application performed consistently
+Processor: Intel Core i5 
+Standard Memory 6 GB
+Memory Technology	DDR3 SDRAM
+Processor Speed	1.70 GHz
+Processor Core	Dual-core (2 Core)
+Cache	3 MB
+
+####Installation Setups
+
+
+
+
+####Process Flow
+
+####Installation Setup
+
+
+###Installation Steps
+
