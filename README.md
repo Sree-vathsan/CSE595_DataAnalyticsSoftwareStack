@@ -40,15 +40,22 @@ Processor Speed	1.70 GHz
 Processor Core	Dual-core (2 Core)
 Cache	3 MB
 
-####Installation Setups
-
-
-
-
 ####Process Flow
-
-####Installation Setup
-
+The flowchart is available in the final presentation.
 
 ###Installation Steps
+####Install the softwares and dependent libraries
+1. Install Python2.7 (stable)
+2. Install the python libraries such as pandas, matplotlib, prettyplotlib, shapely,numpy, sys, sklearn, mpl_toolkits
+3. Install Matlab
+4. Install Netbeans
+5. Download the web application source code from the repository and place it in your netbeans workplace
+6. Folder Setup: Download the folder dass. This contains 3 folder: input, output, exec
+  6.1 Input folder contains text(set of polygon text files), img (image segments of the big image)
+  6.2 Process folder should be empty, this is used by the application to save the pre-processed files
+  6.3 Output Folder: Consolidated files saved to this folder by
+  6.4 Exec folder: contains all the batch, python, matlab scripts
+7. Open config file, update the paths to reflect the local file system configuration
+8. Do Build and Clean, Deploy the application
+9. Run the index.jsp
 
