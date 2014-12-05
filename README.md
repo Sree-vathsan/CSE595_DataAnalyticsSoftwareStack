@@ -6,6 +6,7 @@ CSE 595 - Course Project - Health Care Data Analytics
 Group No: 3
 Dataset: 5
 
+###Problem Statement
 1)     Given sets of areas enclosed by polygons Si and Sj , generate area defined by intersection.  
 
 2)     Generate set Sk of polygons that constitute this intersection
